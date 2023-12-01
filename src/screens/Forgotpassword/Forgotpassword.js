@@ -9,9 +9,9 @@ const coffeeTheme = {
   ...DefaultTheme,
   colors: {
     ...DefaultTheme.colors,
-    primary: "#4A2F18", // Dark brown for primary elements
-    accent: "#D4A55D", // Light brown for accents
-    background: "#F8F1E6", // Beige background color
+    primary: "#019875", // Dark brown for primary elements
+    accent: "#019875", // Light brown for accents
+    background: "#dff5ce", // Beige background color
     text: "#000000", // Black text color
   },
 };
@@ -58,19 +58,19 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
     padding: 20,
-    backgroundColor: "#F8F1E6", // Beige background color
+    backgroundColor: "#dff5ce", // Beige background color
     borderRadius: 5,
   },
   title: {
     fontSize: 25,
     fontWeight: "300",
-    color: "#4A2F18", // Dark brown text color
+    color: "#019875", // Dark brown text color
     marginBottom: 20,
   },
   primaryButton: {
     width: "100%",
     marginTop: 10,
-    backgroundColor: "#4A2F18", // Dark brown for primary button
+    backgroundColor: "#019875", // Dark brown for primary button
   },
 });
 

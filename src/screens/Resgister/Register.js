@@ -12,7 +12,7 @@ const coffeeTheme = {
     ...DefaultTheme.colors,
     primary: "#4A2F18", // Dark brown for primary elements
     accent: "#D4A55D", // Light brown for accents
-    background: "#F8F1E6", // Beige background color
+    background: "#DFF5CE", // Beige background color
     text: "#000000", // Black text color
   },
 };
@@ -141,18 +141,18 @@ const styles = StyleSheet.create({
   primaryButton: {
     width: "100%",
     marginTop: 10,
-    backgroundColor: "#4A2F18", // Dark brown for primary button
+    backgroundColor: "#019875", // Dark brown for primary button
   },
   LoginButtonButton: {
     width: "100%",
     marginTop: 10,
-    borderColor: "#4A2F18", // Dark brown border color
+    borderColor: "#019875", // Dark brown border color
     borderWidth: 1,
   },  
 
   LoginText: {
     fontWeight: "bold",
-    color: "#4A2F18", // Dark brown text color
+    color: "#019875", // Dark brown text color
 
   },
 

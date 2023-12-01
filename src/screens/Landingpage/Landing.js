@@ -48,17 +48,17 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 20,
     fontWeight: "bold",
-    color: "#4A2F18", // Dark brown text color
+    color: "#019875", // Dark brown text color
     marginBottom: 10,
   },
   quote: {
     fontStyle: "italic",
     fontSize: 18,
-    color: "#4A2F18", // Dark brown text color
+    color: "#019875", // Dark brown text color
     marginBottom: 20,
   },
   button: {
-    backgroundColor: "#D4A55D", // Light brown button color
+    backgroundColor: "#dff5ce", // Light brown button color
     paddingHorizontal: 40,
     paddingVertical: 15,
     borderRadius: 8,
@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
   buttonText: {
     fontSize: 18,
     fontWeight: "bold",
-    color: "#4A2F18", // Dark brown button text color
+    color: "#019875", // Dark brown button text color
   },
   emptySpace: {
     marginBottom: 20, // Adds space between button and bottom
